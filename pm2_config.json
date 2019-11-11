@@ -1,0 +1,5 @@
+{
+  "name": "Verdaccio",
+  "script": "verdaccio",
+  "args": ["-c", "conf/config.yml"]
+}
